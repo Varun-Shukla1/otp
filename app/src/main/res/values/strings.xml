@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OTp</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="otp_verification">OTP Verification</string>
+</resources>
